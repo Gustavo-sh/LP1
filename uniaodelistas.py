@@ -3,6 +3,8 @@ def meu_in(arg, l):
         if l[e] == arg:
             return True
     return False
+
+
 def uniao_listas(l1,l2):
     aux = []
     if l1 == []:
